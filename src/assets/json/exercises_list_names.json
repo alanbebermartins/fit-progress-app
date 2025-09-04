@@ -1,0 +1,170 @@
+[
+  {
+    "exerciseCode": "A.0001",
+    "exerciseName": "Mangito Para Fora"
+  },
+  {
+    "exerciseCode": "A.0002",
+    "exerciseName": "Mangito Para Dentro"
+  },
+  {
+    "exerciseCode": "A.0003",
+    "exerciseName": "Supino Inclinado"
+  },
+  {
+    "exerciseCode": "A.0004",
+    "exerciseName": "Supino Reto"
+  },
+  {
+    "exerciseCode": "A.0007",
+    "exerciseName": "Crussifixo Polia Alta"
+  },
+  {
+    "exerciseCode": "A.0008",
+    "exerciseName": "Crussifixo Polia Média"
+  },
+  {
+    "exerciseCode": "A.0009",
+    "exerciseName": "Crussifixo Polia Baixa"
+  },
+  {
+    "exerciseCode": "A.0010",
+    "exerciseName": "Voador Frontal"
+  },
+  {
+    "exerciseCode": "B.0001",
+    "exerciseName": "Puxada Aberta Pegada Pronada"
+  },
+  {
+    "exerciseCode": "B.0003",
+    "exerciseName": "Puxada Pulley Triangulo"
+  },
+  {
+    "exerciseCode": "B.0004",
+    "exerciseName": "Remada Cavalinho"
+  },
+  {
+    "exerciseCode": "B.0005",
+    "exerciseName": "Remada Barra Romana"
+  },
+  {
+    "exerciseCode": "B.0006",
+    "exerciseName": "Remada Baixa"
+  },
+  {
+    "exerciseCode": "B.0009",
+    "exerciseName": "Pulldown"
+  },
+  {
+    "exerciseCode": "B.0012",
+    "exerciseName": "Remada Maquina"
+  },
+  {
+    "exerciseCode": "C.0001",
+    "exerciseName": "Cadeira Abdutora"
+  },
+  {
+    "exerciseCode": "C.0002",
+    "exerciseName": "Cadeira Adutora"
+  },
+  {
+    "exerciseCode": "C.0003",
+    "exerciseName": "Agachamento Smith"
+  },
+  {
+    "exerciseCode": "C.0005",
+    "exerciseName": "LegPress 45°"
+  },
+  {
+    "exerciseCode": "C.0006",
+    "exerciseName": "Cadeira Extensora"
+  },
+  {
+    "exerciseCode": "C.0007",
+    "exerciseName": "Cadeira Flexora"
+  },
+  {
+    "exerciseCode": "C.0008",
+    "exerciseName": "Panturrilha Maquina"
+  },
+  {
+    "exerciseCode": "C.0009",
+    "exerciseName": "Mesa Flexora"
+  },
+  {
+    "exerciseCode": "C.0010",
+    "exerciseName": "Stiff"
+  },
+  {
+    "exerciseCode": "D.0001",
+    "exerciseName": "Desenvolvimento Frontal"
+  },
+  {
+    "exerciseCode": "D.0002",
+    "exerciseName": "Elevação Frontal"
+  },
+  {
+    "exerciseCode": "D.0003",
+    "exerciseName": "Elevação Lateral"
+  },
+  {
+    "exerciseCode": "D.0004",
+    "exerciseName": "Remada Alta"
+  },
+  {
+    "exerciseCode": "D.0005",
+    "exerciseName": "Crussifixo Invertido"
+  },
+  {
+    "exerciseCode": "D.0006",
+    "exerciseName": "Encolhimento de Ombros"
+  },
+  {
+    "exerciseCode": "D.0007",
+    "exerciseName": "Desenvolvimento Arnold Press"
+  },
+  {
+    "exerciseCode": "E.0001",
+    "exerciseName": "Rosca Alternada"
+  },
+  {
+    "exerciseCode": "E.0002",
+    "exerciseName": "Rosca Martelo"
+  },
+  {
+    "exerciseCode": "E.0003",
+    "exerciseName": "Rosca Scott"
+  },
+  {
+    "exerciseCode": "E.0004",
+    "exerciseName": "Triceps Francês"
+  },
+  {
+    "exerciseCode": "E.0005",
+    "exerciseName": "Triceps Normal"
+  },
+  {
+    "exerciseCode": "E.0006",
+    "exerciseName": "Triceps Coice"
+  },
+  {
+    "exerciseCode": "E.0008",
+    "exerciseName": "Rosca Direta"
+  },
+  {
+    "exerciseCode": "F.0001",
+    "exerciseName": "Abdominal Polia"
+  },
+  {
+    "exerciseCode": "F.0002",
+    "exerciseName": "Abdominal Infra"
+  },
+  {
+    "exerciseCode": "F.0004",
+    "exerciseName": "Abdominal Lombar"
+  },
+  {
+    "exerciseCode": "F.0005",
+    "exerciseName": "Abdominal Solo"
+  }
+]

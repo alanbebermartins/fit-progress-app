@@ -57,5 +57,24 @@ function renderChart() {
 }
 
 onMounted(() => nextTick(() => renderChart()))
-watch(() => props.chartData, () => nextTick(() => renderChart()))
+
+watch(
+  () => props.chartData,
+  (newData) => {
+    nextTick(() => {
+      if (!newData.length) {
+        // Se não houver dados, destrói o gráfico e sai
+        if (chartInstance) {
+          chartInstance.destroy()
+          chartInstance = null
+        }
+        return
+      }
+      // Se houver dados, renderiza o gráfico
+      renderChart()
+    })
+  },
+  { deep: true } // opcional, mas útil se você quiser observar mudanças internas no array
+)
+
 </script>
